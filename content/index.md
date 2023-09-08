@@ -1,5 +1,5 @@
 ---
-title:
+title: Home Page
 ---
 
 Hello 👋. Welcome to my page! I am a J.D./Ph.D. student at the Northwestern University Pritzker School of Law & Department of Political Science I study comparative politics, with a focus on the relationship between law and politics in postcommunist countries. In my free time, I take pictures of things around. 
