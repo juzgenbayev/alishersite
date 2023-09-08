@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Mastodon": "https://sciences.social/@alisher",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Email me": "mailto:juzgenbayev@u.northwestern.edu",
     },
   }),
 }
