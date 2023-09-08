@@ -5,8 +5,6 @@ title: "Contact Information"
 
 📧 [juzgenbai@u.northwestern.edu](mailto:juzgenbai@u.northwestern.edu)
 
-🐦 [@juzgenbai](https://twitter.com/juzgenbai)
-
 📝 [Google Scholar](https://scholar.google.com/citations?user=uxEUxOUAAAAJ&hl=en)
 
 🔗 [LinkedIn profile](https://www.linkedin.com/in/alisherjuzgenbayev/)
